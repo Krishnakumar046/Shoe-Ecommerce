@@ -1,0 +1,34 @@
+[
+    {
+        "id": "0",
+        "name": "Air Jordan 1 Retro",
+        "description": "Men's shoe",
+        "price": 10000,
+        "image": "/images/air-jordan-1image.png",
+        "quantity": 1
+    },
+    {
+        "id": "1",
+        "name": "Air Jordan 1 Retro 'White'",
+        "description": "Men's shoe",
+        "price": 18395,
+        "image": "/images/air-jordan-2images.png",
+        "quantity": 1
+    },
+    {
+        "id": "2",
+        "name": "Jumpman MVP",
+        "description": "Men's shoe",
+        "price": 15295,
+        "image": "/images/air-jordan-3image.png",
+        "quantity": 1
+    },
+    {
+        "id": "3",
+        "name": "Air Jordan 1 High G",
+        "description": "Men's Golf shoe",
+        "price": 16554,
+        "image": "/images/air-jordan-5image.png",
+        "quantity": 1
+    }
+]

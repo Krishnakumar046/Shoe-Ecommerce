@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "images": "images/nike-founder.webp",
+        "title": "Bill Bowerman: Nike's Original Innovator",
+        "description": "Nike co-founder Bill Bowerman's quest to create footwear to improve athlete performance is a driving force for Nike's ever-evolving approach to product innovation."
+    },
+    {
+        "id": "2",
+        "images": "images/Aboutimagefirst.jpg",
+        "title": "Sha'Carri Richardson Thrives Off the Doubters",
+        "description": "The champion shares how preserving her sense of realness comes from surrounding herself with the loved ones who will tell it to her straight, how she views the role of honesty in sport, and the thrill she takes in defying the haters."
+    },
+    {
+        "id": "3",
+        "images": "images/Aboutimagesecond.jpg",
+        "title": "The Legend of Victor Wembanyama is Growing",
+        "description": "The 20-year-old phenom speaks to transcending his own limits, banishing fear from his life, turning off his phone and more."
+    },
+    {
+        "id": "4",
+        "images": "images/sanya-richards.webp",
+        "title": "Sanya Richards-Ross Explains How to Win the 400 Meter Sprint",
+        "description": "It’s about more than running as fast as you can for a lap. Here, the champion sprinter shares her secrets."
+    }
+]

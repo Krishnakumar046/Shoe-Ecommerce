@@ -1,0 +1,130 @@
+[
+    {
+        "id": "8",
+        "name": "Air Max-90",
+        "description": "Men's shoe",
+        "price": 11250,
+        "image": "/images/air-max-90-shoes.png",
+        "quantity": 1
+    },
+    {
+        "id": "9",
+        "name": "Air Max-DN",
+        "description": "Men's shoe",
+        "price": 18395,
+        "image": "/images/air-max-dn.png",
+        "quantity": 1
+    },
+    {
+        "id": "10",
+        "name": "Dunk-Low-Retro",
+        "description": "Men's shoe",
+        "price": 15295,
+        "image": "/images/dunk-low-retro-shoes.png",
+        "quantity": 1
+    },
+    {
+        "id": "11",
+        "name": "Pegasus-Running-plus",
+        "description": "Men's shoe",
+        "price": 16554,
+        "image": "/images/pegasus-plus-road-running-shoes.png",
+        "quantity": 1
+    },
+    {
+        "id": "12",
+        "name": "Pegasus-Trail-5-plus",
+        "description": "Men's shoe",
+        "price": 18500,
+        "image": "/images/pegasus-trail-5-trail-running-shoes.png",
+        "quantity": 1
+    },
+    {
+        "id": "13",
+        "name": "Streakfly-road",
+        "description": "Men's shoe",
+        "price": 20356,
+        "image": "/images/streakfly-road-racing.png",
+        "quantity": 1
+    },
+    {
+        "id": "14",
+        "name": "Cortez-plus",
+        "description": "Men's shoe",
+        "price": 19562,
+        "image": "/images/cortez-shoes.png",
+        "quantity": 1
+    },
+    {
+        "id": "15",
+        "name": "Invincible-plus",
+        "description": "Men's shoe",
+        "price": 19800,
+        "image": "/images/invincible-3-blueprint-road-running-shoes.png",
+        "quantity": 1
+    },
+    {
+        "id": "16",
+        "name": "Air Terra Humara Sp",
+        "price": 15000,
+        "description": "Mystic Navy and Aquarius Blue",
+        "image": "/images/Newone.jpg",
+        "quantity": 1
+    },
+    {
+        "id": "17",
+        "name": "Pegasus 2008",
+        "price": 15850,
+        "description": "Metallic Silver and OPti Yellow",
+        "image": "/images/Newtwo.jpg",
+        "quantity": 1
+    },
+    {
+        "id": "18",
+        "name": "Air Pegasus 2005",
+        "price": 16000,
+        "description": "White and Black",
+        "image": "/images/Newthree.jpg",
+        "quantity": 1
+    },
+    {
+        "id": "19",
+        "name": "Air Pegasus 2008",
+        "price": 17320,
+        "description": "Metallic Silver and Photon Dust",
+        "image": "/images/Newfour.jpg",
+        "quantity": 1
+    },
+    {
+        "id": "20",
+        "name": "Nike LD-1000 X Stussy",
+        "price": 10520,
+        "description": "Action Green and Black",
+        "image": "/images/Newfive.jpg",
+        "quantity": 1
+    },
+    {
+        "id": "21",
+        "name": "Air Jordan 3 Retro x Nina Chanel ",
+        "price": 18035,
+        "description": "Bicoastal and Malachite",
+        "image": "/images/Newsix.jpg",
+        "quantity": 1
+    },
+    {
+        "id": "22",
+        "name": "Air Terra Humara",
+        "price": 16250,
+        "description": "Alchemy Pink and Diffused Blue",
+        "image": "/images/newseven.jpg",
+        "quantity": 1
+    },
+    {
+        "id": "23",
+        "name": "Air Jordan 4",
+        "price": 17320,
+        "description": "Red Cement",
+        "image": "/images/neweight.jpg",
+        "quantity": 1
+    }
+]

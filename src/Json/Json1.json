@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "description": "Noise-cancelling over-ear headphones with 40 hours battery life.",
+        "price": 59.99,
+        "category": "Electronics",
+        "image": "images/smartwatches.jpeg",
+        "quantity": 1,
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "name": "Smart Fitness Watch",
+        "description": "Waterproof fitness watch with heart rate monitor and GPS.",
+        "price": 129.99,
+        "category": "Wearable Technology",
+        "image": "images/fitness.jpg",
+        "quantity": 1,
+        "inStock": true
+    },
+    {
+        "id": 3,
+        "name": "Portable Power Bank",
+        "description": "10,000mAh high-speed power bank with dual USB ports.",
+        "price": 24.99,
+        "category": "Accessories",
+        "image": "images/powerbank.jpg",
+        "quantity": 1,
+        "inStock": false
+    },
+    {
+        "id": 4,
+        "name": "Electric Toothbrush",
+        "description": "Rechargeable electric toothbrush with multiple cleaning modes.",
+        "price": 39.99,
+        "category": "Personal Care",
+        "image": "images/electronictoothbrush.jpg",
+        "quantity": 1,
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "name": "Wireless Charger Stand",
+        "description": "Fast wireless charging stand compatible with iPhone and Android.",
+        "price": 19.99,
+        "category": "Electronics",
+        "image": "images/wirelesscharger.jpg",
+        "quantity": 1,
+        "inStock": true
+    }
+]
