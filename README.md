@@ -1,3 +1,4 @@
+In this React vite project i have created a simple Ecommerce store through the function hooks concept in React js.And i have used the useState hook for making the state change and The useReducer and useContext for creating the empty cart through create context and useReducer hook is used to add the item in the cart and remove the item in the cart
 
 ![Screenshot 2024-11-15 124327](https://github.com/user-attachments/assets/fe6776b4-186e-4048-92f9-3138b353b4d0)
 ![Screenshot 2024-11-15 124409](https://github.com/user-attachments/assets/aedbce0b-95b6-481a-a9ef-62193d2f3371)
